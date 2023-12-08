@@ -6,6 +6,11 @@
 4. lepcha[https://github.com/notofonts/lepcha]
 5. lisu[https://github.com/notofonts/lisu]
 6. Chakma[https://github.com/notofonts/chakma]
+7. Wancho[https://github.com/notofonts/wancho]
+8. Limbu[https://github.com/notofonts/limbu]
+9. Kanchenjunga[https://software.sil.org/kanchenjunga/]
+10. Mingzat[https://software.sil.org/Mingzat/]
+11. Namdhinggo[https://software.sil.org/Namdhinggo/]
 
 # DOWNLOAD URL
 
@@ -15,3 +20,8 @@
 4. lepcha[https://github.com/notofonts/lepcha/releases/download/NotoSansLepcha-v2.006/NotoSansLepcha-v2.006.zip]
 5. lisu[https://github.com/notofonts/lisu/releases/download/NotoSansLisu-v2.102/NotoSansLisu-v2.102.zip]
 6. Chakma[https://github.com/notofonts/chakma/releases/download/NotoSansChakma-v2.003/NotoSansChakma-v2.003.zip]
+7. Wancho[https://github.com/notofonts/wancho/releases/download/NotoSansWancho-v2.001/NotoSansWancho-v2.001.zip]
+8. Limbu[https://github.com/notofonts/limbu/releases/download/NotoSansLimbu-v2.004/NotoSansLimbu-v2.004.zip]
+9. Kanchenjunga[https://software.sil.org/downloads/r/kanchenjunga/Kanchenjunga-1.000.zip]
+10. Mingzat[https://software.sil.org/downloads/r/mingzat/Mingzat-1.100.zip]
+11. ?Namdhinggo[https://software.sil.org/downloads/r/namdhinggo/Namdhinggo-3.001.zip]
