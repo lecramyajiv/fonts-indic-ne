@@ -24,4 +24,4 @@
 8. Limbu[https://github.com/notofonts/limbu/releases/download/NotoSansLimbu-v2.004/NotoSansLimbu-v2.004.zip]
 9. Kanchenjunga[https://software.sil.org/downloads/r/kanchenjunga/Kanchenjunga-1.000.zip]
 10. Mingzat[https://software.sil.org/downloads/r/mingzat/Mingzat-1.100.zip]
-11. ?Namdhinggo[https://software.sil.org/downloads/r/namdhinggo/Namdhinggo-3.001.zip]
+11. Namdhinggo[https://software.sil.org/downloads/r/namdhinggo/Namdhinggo-3.001.zip]
