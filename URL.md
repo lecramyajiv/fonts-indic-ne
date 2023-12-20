@@ -11,6 +11,7 @@
 9. Kanchenjunga[https://software.sil.org/kanchenjunga/]
 10. Mingzat[https://software.sil.org/Mingzat/]
 11. Namdhinggo[https://software.sil.org/Namdhinggo/]
+12. Lisubosa[https://software.sil.org/lisubosa/]
 
 # DOWNLOAD URL
 
@@ -25,3 +26,4 @@
 9. Kanchenjunga[https://software.sil.org/downloads/r/kanchenjunga/Kanchenjunga-1.000.zip]
 10. Mingzat[https://software.sil.org/downloads/r/mingzat/Mingzat-1.100.zip]
 11. Namdhinggo[https://software.sil.org/downloads/r/namdhinggo/Namdhinggo-3.001.zip]
+12. Lisubosha[https://software.sil.org/downloads/r/lisubosa/LisuBosa-2.000.zip]
