@@ -12,6 +12,11 @@
 10. Mingzat[https://software.sil.org/Mingzat/]
 11. Namdhinggo[https://software.sil.org/Namdhinggo/]
 12. Lisubosa[https://software.sil.org/lisubosa/]
+13. ddc-uchen[https://packages.debian.org/unstable/fonts-ddc-uchen]
+14. monlam[https://packages.debian.org/sid/fonts-monlam]
+15. sambhota-tsugring[https://packages.debian.org/sid/fonts-sambhota-tsugring]
+16. sambhota-yigchung[ https://packages.debian.org/sid/fonts-sambhota-yigchung]
+17. tibetan-machine[https://packages.debian.org/sid/fonts-tibetan-machine]
 
 # DOWNLOAD URL
 
@@ -27,3 +32,8 @@
 10. Mingzat[https://software.sil.org/downloads/r/mingzat/Mingzat-1.100.zip]
 11. Namdhinggo[https://software.sil.org/downloads/r/namdhinggo/Namdhinggo-3.001.zip]
 12. Lisubosha[https://software.sil.org/downloads/r/lisubosa/LisuBosa-2.000.zip]
+13. ddc-uchen[http://deb.debian.org/debian/pool/main/f/fonts-ddc-uchen/fonts-ddc-uchen_1.0.orig.tar.gz]
+14. monlam[http://deb.debian.org/debian/pool/main/f/fonts-monlam/fonts-monlam_1.0.orig.tar.gz]
+15. sambhota-tsugrring[http://deb.debian.org/debian/pool/main/f/fonts-sambhota-tsugring/fonts-sambhota-tsugring_1.0.orig.tar.gz]
+16. sambhota-yigchung[http://deb.debian.org/debian/pool/main/f/fonts-sambhota-yigchung/fonts-sambhota-yigchung_1.2.orig.tar.gz]
+17. tibetan-machine[http://deb.debian.org/debian/pool/main/f/fonts-tibetan-machine/fonts-tibetan-machine_1.901b.orig.tar.bz2]
