@@ -16,7 +16,6 @@
 14. monlam[https://packages.debian.org/sid/fonts-monlam]
 15. sambhota-tsugring[https://packages.debian.org/sid/fonts-sambhota-tsugring]
 16. sambhota-yigchung[ https://packages.debian.org/sid/fonts-sambhota-yigchung]
-17. tibetan-machine[https://packages.debian.org/sid/fonts-tibetan-machine]
 
 # DOWNLOAD URL
 
@@ -36,4 +35,4 @@
 14. monlam[http://deb.debian.org/debian/pool/main/f/fonts-monlam/fonts-monlam_1.0.orig.tar.gz]
 15. sambhota-tsugrring[http://deb.debian.org/debian/pool/main/f/fonts-sambhota-tsugring/fonts-sambhota-tsugring_1.0.orig.tar.gz]
 16. sambhota-yigchung[http://deb.debian.org/debian/pool/main/f/fonts-sambhota-yigchung/fonts-sambhota-yigchung_1.2.orig.tar.gz]
-17. tibetan-machine[http://deb.debian.org/debian/pool/main/f/fonts-tibetan-machine/fonts-tibetan-machine_1.901b.orig.tar.bz2]
+
