@@ -13,6 +13,7 @@
 11. Namdhinggo[https://software.sil.org/Namdhinggo/]
 12. Lisubosa[https://software.sil.org/lisubosa/]
 13. Eeyak [https://github.com/silnrsi/font-eeyek]
+14. Lisu-tzimu [https://github.com/silnrsi/font-lisutzimu]
 
 # DOWNLOAD URL
 
@@ -29,4 +30,4 @@
 11. Namdhinggo[https://software.sil.org/downloads/r/namdhinggo/Namdhinggo-3.001.zip]
 12. Lisubosha[https://software.sil.org/downloads/r/lisubosa/LisuBosa-2.000.zip]
 13. Eeyek [https://github.com/silnrsi/font-eeyek/releases/download/v2.000/Eeyek-2.000.tar.xz]
-
+14. Lisu-tzimu [https://github.com/silnrsi/font-lisutzimu/releases/download/v2.000/LisuTzimu-2.000.tar.xz]

@@ -1,0 +1,26 @@
+-----
+FONTLOG for the LisuTzimu fonts
+
+This file provides detailed information on the LisuTzimu Font Software. This information should be distributed along with the LisuTzimu fonts and any derivative works.
+
+Basic Font Information
+
+LisuTzimu is a Unicode typeface family that supports all languages that use the Lisu script and its variants, and could be expanded to support other scripts.
+
+ChangeLog
+
+19 Nov 2019 (SIL WSTech Team) LisuTzimu version 2.000
+- Rebuilt from new workflow
+- Supports original kerning
+- No design changes
+
+20 Feb 2018 (Martin Hosken) LisuTzimu version 1.400
+- Publish on github
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: David Morse
+D: Designer
+-----
